@@ -1,13 +1,17 @@
 Hi 👋 My name is Alex Jawhari
 =============================
 
+
+
+
+
 Aspiring Software Engineer
 --------------------------
 
 I am currently working to obtain my bachelor's in computer science.
 
 * 🌍  I'm based in DFW, Texas
-* 🧠  I'm currently learning SQL and hardware logic.
+* 🧠  I'm currently learning SQL and hardware logic
 * ✉️  You can contact me at [alexjawhari00@gmail.com](mailto:alexjawhari00@gmail.com)
 * 🤝  I'm open to collaborating on Anything
 * ⚡  Feel free to contact me about any tech related opportunities!
