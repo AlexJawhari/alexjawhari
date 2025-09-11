@@ -1,9 +1,5 @@
-Hi 👋 My name is Alex Jawhari
+Hey👋 My name is Alex Jawhari
 =============================
-
-
-
-
 
 Aspiring Software Engineer
 --------------------------
