@@ -4,7 +4,7 @@ Hey👋 My name is Alex Jawhari
 Software Engineer
 --------------------------
 
-I am currently working to obtain my bachelor's in computer science.
+I am currently working to obtain my bachelor's in computer science (expected Spring 2027).
 
 * 🌍  I'm based in DFW, Texas
 * 🧠  I'm currently learning SQL and hardware logic
