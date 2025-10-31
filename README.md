@@ -1,7 +1,7 @@
 Hey👋 My name is Alex Jawhari
 =============================
 
-Aspiring Software Engineer
+Software Engineer
 --------------------------
 
 I am currently working to obtain my bachelor's in computer science.
