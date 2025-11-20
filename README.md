@@ -1,4 +1,4 @@
-Hey👋 My name is Alex Jawhari
+Hey Hey👋 I'm Alex Jawhari
 =============================
 
 Software Engineer
