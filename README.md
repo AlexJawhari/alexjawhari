@@ -9,7 +9,7 @@ I am currently working to obtain my bachelor's in computer science (expected Spr
 * 🌍  I'm based in DFW, Texas
 * 🧠  I'm currently learning SQL and hardware logic
 * ✉️  You can contact me at [alexjawhari00@gmail.com](mailto:alexjawhari00@gmail.com)
-* 🤝  I'm open to collaborating on Anything
+* 🤝  I'm open to collaborating on fullstack projects, financial services, and AI leveraged solutions.
 * ⚡  Feel free to contact me about any tech related opportunities!
 
 ### Skills
