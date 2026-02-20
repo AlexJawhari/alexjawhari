@@ -1,6 +1,7 @@
 # Block all search engines from crawling this site
 User-agent: *
 Disallow: /
+Crawl-delay: 0
 
 # Explicitly block common search engines
 User-agent: Googlebot
