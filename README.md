@@ -11,7 +11,8 @@ I am currently working to obtain my bachelor's in computer science (expected Spr
 * ✉️  You can contact me at [alexjawhari00@gmail.com](mailto:alexjawhari00@gmail.com)
 * 🤝  I'm open to collaborating on fullstack projects, financial services, and AI leveraged solutions.
 * ⚡  Feel free to contact me about any tech related opportunities!
-* :open_file_folder: Check out my portfolio too! <a href="https://alexjawhari.github.io/" target="_blank" rel="noreferrer">
+
+* :open_file_folder: Check out my portfolio too! <a href="https://alexjawhari.github.io/">
 
 ### Skills
 
