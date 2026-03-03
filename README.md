@@ -12,7 +12,7 @@ I am currently working to obtain my bachelor's in computer science (expected Spr
 * 🤝  I'm open to collaborating on fullstack projects, financial services, and AI leveraged solutions.
 * ⚡  Feel free to contact me about any tech related opportunities!
 
-* :open_file_folder: Check out my portfolio too! [https://alexjawhari.github.io/] <a href="https://alexjawhari.github.io/">
+* :open_file_folder: Check out my portfolio too! https://alexjawhari.github.io/ <a href="https://alexjawhari.github.io/">
 
 ### Skills
 
