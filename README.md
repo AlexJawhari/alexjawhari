@@ -7,7 +7,7 @@ Software Engineer
 I am currently working to obtain my bachelor's in computer science (expected Spring 2027).
 
 * 🌍  I'm based in DFW, Texas
-* 🧠  I'm currently Computer Networking
+* 🧠  I'm currently learning Computer Networking
 * ✉️  You can contact me at [alexjawhari00@gmail.com](mailto:alexjawhari00@gmail.com)
 * 🤝  I'm open to collaborating on fullstack projects, financial services, and AI leveraged solutions.
 * ⚡  Feel free to contact me about any tech related opportunities!
