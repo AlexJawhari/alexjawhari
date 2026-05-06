@@ -19,5 +19,4 @@ I am currently working to obtain my bachelor's in computer science (expected Spr
 
 ### 🤝 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexjawhari/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://alexjawhari.github.io/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/alexjawhari) [![GitHub](https://skillicons.dev/icons?i=github)](https://alexjawhari.github.io)
