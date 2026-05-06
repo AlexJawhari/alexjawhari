@@ -1,6 +1,5 @@
 Hey Hey👋 I'm Alex Jawhari
 =============================
-
 Software Engineer
 --------------------------
 I am currently working to obtain my bachelor's in computer science (expected Spring 2027).
@@ -20,4 +19,5 @@ I am currently working to obtain my bachelor's in computer science (expected Spr
 
 ### 🤝 Socials
 
-<p align="left"><a href="https://alexjawhari.github.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="32" height="32" /></a>&nbsp;<a href="https://www.linkedin.com/in/alexjawhari/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32" /></a></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexjawhari/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://alexjawhari.github.io/)
